@@ -1,4 +1,5 @@
 # Introducción a Docker
 
-Demostraciones
-Ejercicios
+Demostraciones en el directorio `./demos`
+Repositorios externos en el directorio `./repos`
+Laboratorios en el directorio `./labs`
