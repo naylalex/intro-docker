@@ -4,3 +4,6 @@
 [submodule "repos/getting-started"]
 	path = repos/getting-started
 	url = https://github.com/docker/getting-started.git
+[submodule "repos/namer"]
+	path = repos/namer
+	url = https://github.com/jpetazzo/namer
