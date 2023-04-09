@@ -3,4 +3,4 @@
 # creado por Jérôme Petazzoni y otros contribuidores
 docker inspect $CONTAINER_NAME --format '{{ .HostConfig.VolumesFrom }}'
 docker inspect $CONTAINER_NAME | jq .[].Mounts
-#TODO Probar con CONTAINER_NAME=redis30
+#TODO: Probar con CONTAINER_NAME=redis30
