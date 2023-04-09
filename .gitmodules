@@ -7,3 +7,6 @@
 [submodule "repos/namer"]
 	path = repos/namer
 	url = https://github.com/jpetazzo/namer
+[submodule "repos/trainingwheels"]
+	path = repos/trainingwheels
+	url = https://github.com/jpetazzo/trainingwheels
