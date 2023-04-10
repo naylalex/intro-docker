@@ -10,3 +10,6 @@
 [submodule "repos/trainingwheels"]
 	path = repos/trainingwheels
 	url = https://github.com/jpetazzo/trainingwheels
+[submodule "repos/container.training"]
+	path = repos/container.training
+	url = https://github.com/jpetazzo/container.training
